@@ -14,7 +14,7 @@ This is an optional honors project for the IBM Exploratory Data Analysis for Mac
 - Include a paragraph that summarizes the quality of this data set and a request for additional data if needed.
 
 # Dataset 
-Using Kaggle Data set, [High School Alchoholism and Academic Performance](https://www.kaggle.com/datasets/gabrielluizone/high-school-alcoholism-and-academic-performance/data)
+Using Kaggle Data set, [High School Alcoholism and Academic Performance](https://www.kaggle.com/datasets/gabrielluizone/high-school-alcoholism-and-academic-performance/data)
 
 # Motivation
-To explore what causes teenage alcholism and its impact on academic performance, as well as factors that could reduce it.
+To explore what causes teenage alcoholism and its impact on academic performance, as well as factors that could reduce it.
