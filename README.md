@@ -18,3 +18,18 @@ Using Kaggle Data set, [High School Alcoholism and Academic Performance](https:/
 
 # Motivation
 To explore what causes teenage alcoholism and its impact on academic performance, as well as factors that could reduce it.
+
+# Installation and Setup
+
+1) Download Kaggle dataset and extract contents into `./data`. 
+2) Create and activate virtual environment following this tutorial.
+https://docs.python.org/3/tutorial/venv.html
+3) Install requirements  
+```pip install -r .\requirements.txt```
+4) 
+
+# Code Structure
+
+# Results and Evaluation
+
+https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e
