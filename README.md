@@ -25,8 +25,23 @@ To explore what causes teenage alcoholism and its impact on academic performance
 2) Create and activate virtual environment following this tutorial.
 https://docs.python.org/3/tutorial/venv.html
 3) Install requirements  
-```pip install -r .\requirements.txt```
-4) 
+    #### On Windows
+    ```commandline
+    install -r .\requirements.txt
+    ```
+    #### On Linux
+    ```commandline
+    install -r ./requirements.txt
+    ```
+4) Run File  
+    #### On Windows
+    ```commandline
+    python .\src\exploratory_data_analysis.py
+    ```
+    #### On Linux
+    ```commandline
+    python src/exploratory_data_analysis.py
+    ```
 
 # Code Structure
 
